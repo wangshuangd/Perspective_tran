@@ -44,3 +44,4 @@
 *.db
 .vs/try1/v15/.suo
 *.ipch
+*.opendb
